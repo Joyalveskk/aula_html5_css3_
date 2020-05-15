@@ -1,0 +1,41 @@
+body {
+    background: rgb(201, 215, 236);
+    margin-left: 100px;
+    margin-right: 100px;   
+}
+
+header{
+    margin-top: 100px;
+}
+
+h1 {
+    color: rgb(2, 0, 129);
+    font-family: Verdana;
+}
+
+h2{
+    font-style: italic;
+    font-style: bold; 
+    font-family: Verdana;
+    color: rgb(122, 120, 233);
+}
+
+ul {
+    font-family: Verdana;
+    font-style: oblique;
+    color: red;
+    margin-left: 500px;
+}
+
+p{
+    font-size: 18px;
+    font-family: Verdana;
+}
+
+footer{
+    margin-bottom: 30px;
+}
+
+.img_padrao {
+    margin-bottom: 50px;
+}
